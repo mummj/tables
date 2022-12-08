@@ -1,0 +1,25 @@
+th{
+    border: solid 1px black;
+    margin: 0px;
+    width: 500px;
+}
+td{
+    border:solid 1px black;
+    margin: 0px;
+    text-align: center;
+}
+table{
+    border-spacing:0;
+    margin-bottom: 5%;
+}
+#first{
+    font-size: 32px;
+}
+#classes{
+    background-color: black;
+    color:red;
+    border:2px solid red;
+}
+.subject{
+    font-size: 12px;
+}
